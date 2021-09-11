@@ -11,3 +11,14 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+h1 {
+  color: black;
+}
+
+.movie-img {
+  width: 200px;
+  height: 200px;
+  object-fit: scale-down;
+}
